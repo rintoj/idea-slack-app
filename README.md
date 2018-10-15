@@ -1,6 +1,6 @@
 # Idea Slack App
 
-This is a sample project for demonstrating a Slack app. Read [Integrate your application with Slack using Slack Apps](https://medium.com/@rintoj/build-a-slack-app-2fd24eeccacb) for more details
+This is a sample project for demonstrating a Slack app. Read [Unleash the power of Slack App](https://medium.com/@rintoj/unleash-the-power-of-slack-app-2fd24eeccacb) for more details
 
 ## How to Use
 
